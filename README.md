@@ -34,7 +34,7 @@ Here is my summary of git terminal commands to:
 * `git merge [branch-name]`: merge another branch into your active branch
 * `git add <filename>`: If automatic merge is not posible, change manually and then marked as merged with the command above 
 
-# Replace local changes
+## Replace local changes
 * `git checkout -- <filename>`: replace local changes in your working tree (with the last content in **HEAD**), changes added to the **index** and new files, will kept.
 * `git fetch origin` `git reset --hard origin/master`: If you instead want to drop all your local changes and commits, fetch the latest history from the server and point your local master branch 
 
