@@ -51,7 +51,7 @@ Here is my summary of git terminal commands to:
     * You can get the commit id by looking at the log
     * e.g. git tag 1.0.0 1b2e1d63ff
 
-# Hints 
+## Hints 
 * `gitk`: built-in git GUI
 * `git config color.ui true`: use colorful git output
 * `git config format.pretty oneline`: show log on just one line per commit 
